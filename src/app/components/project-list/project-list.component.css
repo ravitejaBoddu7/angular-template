@@ -1,0 +1,53 @@
+.sources-td {
+  padding: 2px 1.5rem;
+  background: #e9edf5;
+  border-radius: 6px;
+  color: black;
+}
+.qualitypad {
+  padding: 2px 0.8rem;
+  border-radius: 6px;
+  background-color: #cfcfcf;
+  color: black;
+}
+.succ-bg {
+  background-color: #b0e7b0e6;
+  color: green;
+  border-radius: 5px;
+  padding: 0.3rem 0.2rem;
+  margin-top: 1rem;
+}
+.warning-bg {
+  background-color: #e7d3b0e6;
+  color: #c16c08a8;
+  border-radius: 5px;
+  padding: 0.3rem 0.2rem;
+  margin-top: 1rem;
+}
+
+.newdata-btn {
+  text-align: end;
+}
+.new-project {
+  padding: 6px 12px;
+  border: none;
+  background: #6750a4;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px #5e5adb;
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 16px;
+}
+th {
+  font-size: 11px;
+  font-weight: 500;
+}
+td {
+  font-size: 14px;
+  color: #a1a9b8;
+}
+.verical-icon i{
+ color: black;
+}
+::ng-deep .my-class .modal-dialog { 
+  max-width: 450px;
+}

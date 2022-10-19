@@ -1,0 +1,72 @@
+.logo {
+  margin-left: 24px;
+}
+.bg-nav {
+  background: #171717;
+}
+.navbar-nav {
+  margin-left: 24px;
+}
+
+.navbar-nav .nav-link {
+  color: #5e5adb;
+}
+
+.home-icon {
+  margin-top: 10px;
+  width: 15px;
+}
+
+.bdr-dott {
+  border-left-style: solid;
+  padding-left: 24px;
+}
+
+.bdr-line {
+  border-right-style: solid;
+  padding-right: 24px;
+}
+.profile-popup {
+  position: absolute;
+  top: 3%;
+  right: 2%;
+}
+
+.fade {
+  transition: none;
+}
+
+.modal.fade .modal-dialog,
+.modal.in .modal-dialog {
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1040;
+  background-color: #000;
+}
+.modal-backdrop.in {
+  filter: alpha(opacity=50);
+  opacity: 0.5;
+}
+
+.modal-content {
+  width: 380px;
+}
+
+.user-avatar {
+  display: flex;
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 50px;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "name": "Project-1",
+    "sources": 3,
+    "totalRecords": "1.4B",
+    "dataFlow": "assets/smapleGraph2.png",
+    "lastUpdate": "15 Mar 2021, 12:47 PM",
+    "dataQuality": "100%",
+    "status": "Data Synced",
+    "sourceData": [
+      {
+        "id": "1",
+        "name": "Green Petrol",
+        "tables": 60,
+        "totalRecords": "1.4B",
+        "dataFlow": "assets/smapleGraph2.png",
+        "lastUpdate": "15 Mar 2022, 09:25 PM",
+        "dataQuality": "30%",
+        "status": "Success"
+      },
+      {
+        "id": "2",
+        "name": "Buyer's Alight",
+        "tables": 3,
+        "totalRecords": "300M",
+        "dataFlow": "assets/smapleGraph2.png",
+        "lastUpdate": "15 Mar 2022, 10:35 PM",
+        "dataQuality": "10%",
+        "status": "Success"
+      },
+      {
+        "id": "3",
+        "name": "Friendly Skies",
+        "tables": 16,
+        "totalRecords": "700M",
+        "dataFlow": "assets/smapleGraph2.png",
+        "lastUpdate": "15 Mar 2022, 11:35 PM",
+        "dataQuality": "60%",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Project-2",
+    "sources": 2,
+    "totalRecords": "1.1B",
+    "dataFlow": "assets/smapleGraph1.png",
+    "lastUpdate": "19 June 2021, 2:47 PM",
+    "dataQuality": "100%",
+    "status": "Data Synced",
+    "sourceData": [
+      {
+        "id": "1",
+        "name": "Green Petrol",
+        "tables": 60,
+        "totalRecords": "1.4B",
+        "dataFlow": "assets/smapleGraph2.png",
+        "lastUpdate": "15 Mar 2022, 09:25 PM",
+        "dataQuality": "50%",
+        "status": "Success"
+      },
+      {
+        "id": "2",
+        "name": "Buyer's Alight",
+        "tables": 3,
+        "totalRecords": "300M",
+        "dataFlow": "assets/smapleGraph2.png",
+        "lastUpdate": "15 Mar 2022, 10:35 PM",
+        "dataQuality": "19%",
+        "status": "Success"
+      },
+      {
+        "id": "3",
+        "name": "Friendly Skies",
+        "tables": 16,
+        "totalRecords": "700M",
+        "dataFlow": "assets/smapleGraph1.png",
+        "lastUpdate": "15 Mar 2022, 11:35 PM",
+        "dataQuality": "38%",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Project-3",
+    "sources": 5,
+    "totalRecords": "900M",
+    "dataFlow": "assets/smapleGraph1.png",
+    "lastUpdate": "23 April 2021, 6:47 PM",
+    "dataQuality": "70%",
+    "status": "Data Synced",
+    "sourceData": [
+      {
+        "id": "1",
+        "name": "Green Petrol",
+        "tables": 60,
+        "totalRecords": "1.4B",
+        "dataFlow": "assets/smapleGraph1.png",
+        "lastUpdate": "15 Mar 2022, 09:25 PM",
+        "dataQuality": "44%",
+        "status": "Success"
+      },
+      {
+        "id": "2",
+        "name": "Buyer's Alight",
+        "tables": 3,
+        "totalRecords": "300M",
+        "dataFlow": "assets/smapleGraph1.png",
+        "lastUpdate": "15 Mar 2022, 10:35 PM",
+        "dataQuality": "62%",
+        "status": "Success"
+      },
+      {
+        "id": "3",
+        "name": "Friendly Skies",
+        "tables": 16,
+        "totalRecords": "700M",
+        "dataFlow": "assets/smapleGraph2.png",
+        "lastUpdate": "15 Mar 2022, 11:35 PM",
+        "dataQuality": "79%",
+        "status": "Success"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Project-4",
+    "sources": 3,
+    "totalRecords": "850M",
+    "dataFlow": "assets/smapleGraph1.png",
+    "lastUpdate": "23 July 2021, 10:15 PM",
+    "dataQuality": "100%",
+    "status": "Data Synced",
+    "sourceData": [
+      {
+        "id": "1",
+        "name": "Green Petrol",
+        "tables": 60,
+        "totalRecords": "1.4B",
+        "dataFlow": "assets/smapleGraph2.png",
+        "lastUpdate": "15 Mar 2022, 09:25 PM",
+        "dataQuality": "10%",
+        "status": "Success"
+      },
+      {
+        "id": "2",
+        "name": "Buyer's Alight",
+        "tables": 3,
+        "totalRecords": "300M",
+        "dataFlow": "assets/smapleGraph2.png",
+        "lastUpdate": "15 Mar 2022, 10:35 PM",
+        "dataQuality": "10%",
+        "status": "Success"
+      },
+      {
+        "id": "3",
+        "name": "Friendly Skies",
+        "tables": 16,
+        "totalRecords": "700M",
+        "dataFlow": "assets/smapleGraph2.png",
+        "lastUpdate": "15 Mar 2022, 11:35 PM",
+        "dataQuality": "10%",
+        "status": "Success"
+      }
+    ]
+  }
+]

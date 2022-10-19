@@ -1,0 +1,71 @@
+<div class="table-responsive">
+  <table class="table text-center">
+    <thead class="table-dark">
+      <tr>
+        <th scope="col"><input type="checkbox" id="checkbox" /></th>
+        <th>
+          # <span><i class="fas fa-sort"></i></span>
+        </th>
+        <th>
+          PROJECT NAME <span><i class="fas fa-sort"></i></span>
+        </th>
+        <th>
+          SOURCES <span><i class="fas fa-sort"></i></span>
+        </th>
+        <th>
+          TOTAL RECORDS <span><i class="fas fa-sort"></i></span>
+        </th>
+        <th>
+          DATA FLOW <span><i class="fas fa-sort"></i></span>
+        </th>
+        <th>
+          LAST UPDATE <span><i class="fas fa-sort"></i></span>
+        </th>
+        <th>
+          DATA QUALITY <span><i class="fas fa-sort"></i></span>
+        </th>
+        <th>
+          STATUS <span><i class="fas fa-sort"></i></span>
+        </th>
+        <th>
+          <span><i class="fas fa-ellipsis-h"></i></span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        *ngFor="let project of projectList"
+        (click)="openProjectOverview(project.id)"
+      >
+        <th><input type="checkbox" /></th>
+        <td>{{ project.id }}</td>
+        <td>{{ project.name }}</td>
+        <td>
+          <span class="sources-td">{{ project.sources }}</span>
+        </td>
+        <td>
+          <span class="sources-td">{{ project.totalRecords }}</span>
+        </td>
+        <td><img src="{{ project.dataFlow }}" /></td>
+        <td>
+          <span>{{ project.lastUpdate }}</span>
+        </td>
+        <td>
+          <span class="qualitypad">{{ project.dataQuality }}</span>
+        </td>
+        <td>
+          <span class="succ-bg">{{ project.status }} </span>
+        </td>
+        <td>
+          <span class="verical-icon"><i class="fas fa-grip-vertical"></i></span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="newdata-btn mt-4 padding-bottom">
+  <button class="new-project">
+    <span><i class="fas fa-plus"></i></span>
+    New project
+  </button>
+</div>

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "REST API",
+    "image": "../../../assets/images/restapi.png"
+  },
+  {
+    "id": "2",
+    "name": "GraphQL",
+    "image": "../../../assets/images/graphql.png"
+  },
+  {
+    "id": "3",
+    "name": "Firebase",
+    "image": "../../../assets/images/firebase.png"
+  },
+  {
+    "id": "4",
+    "name": "Amazon S3",
+    "image": "../../../assets/images/s3.png"
+  },
+  {
+    "id": "5",
+    "name": "Google Cloud Storage",
+    "image": "../../../assets/images/googlecloud.png"
+  },
+  {
+    "id": "6",
+    "name": "Stripe",
+    "image": "../../../assets/images/stripe.png"
+  },
+  {
+    "id": "7",
+    "name": "Twillio",
+    "image": "../../../assets/images/twillio.png"
+  },
+  {
+    "id": "8",
+    "name": "GitHub",
+    "image": "../../../assets/images/github.png"
+  },
+  {
+    "id": "9",
+    "name": "Google Sheets",
+    "image": "../../../assets/images/sheets.png"
+  },
+  {
+    "id": "10",
+    "name": "Salesforce",
+    "image": "../../../assets/images/salesforce.png"
+  },
+  {
+    "id": "11",
+    "name": "SendGrid",
+    "image": "../../../assets/images/sendgrid.png"
+  },
+  {
+    "id": "12",
+    "name": "OpenAPI",
+    "image": "../../../assets/images/openapi.png"
+  },
+  {
+    "id": "13",
+    "name": "Lambbda",
+    "image": "../../../assets/images/lambda.png"
+  },
+  {
+    "id": "14",
+    "name": "Slack",
+    "image": "../../../assets/images/slack.png"
+  },
+  {
+    "id": "15",
+    "name": "Google Maps",
+    "image": "../../../assets/images/maps.png"
+  },
+  {
+    "id": "16",
+    "name": "Datadog",
+    "image": "../../../assets/images/datadog.png"
+  },
+  {
+    "id": "17",
+    "name": "SMTP",
+    "image": "../../../assets/images/smtp.png"
+  },
+  {
+    "id": "18",
+    "name": "Asana",
+    "image": "../../../assets/images/asana.png"
+  },
+  {
+    "id": "19",
+    "name": "Jira",
+    "image": "../../../assets/images/jira.png"
+  },
+  {
+    "id": "20",
+    "name": "Close",
+    "image": "../../../assets/images/close.png"
+  },
+  {
+    "id": "21",
+    "name": "BigID",
+    "image": "../../../assets/images/bigid.png"
+  },
+  {
+    "id": "22",
+    "name": "OneSignal",
+    "image": "../../../assets/images/onesignal.png"
+  },
+  {
+    "id": "23",
+    "name": "Front",
+    "image": "../../../assets/images/front.png"
+  },
+  {
+    "id": "24",
+    "name": "CircleCI",
+    "image": "../../../assets/images/circleci.png"
+  }
+]

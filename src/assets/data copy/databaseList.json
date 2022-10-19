@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "name": "Postgres",
+    "image": "../../../assets/images/postgres.png"
+  },
+  {
+    "id": "2",
+    "name": "MySQL",
+    "image": "../../../assets/images/mysql.png"
+  },
+  {
+    "id": "3",
+    "name": "Microsoft SQL",
+    "image": "../../../assets/images/mssql.png"
+  },
+  {
+    "id": "4",
+    "name": "MongoDB",
+    "image": "../../../assets/images/mongo.png"
+  },
+  {
+    "id": "5",
+    "name": "BigQuery",
+    "image": "../../../assets/images/bigquery.png"
+  },
+  {
+    "id": "6",
+    "name": "Snowflake",
+    "image": "../../../assets/images/snowflake.png"
+  },
+  {
+    "id": "7",
+    "name": "Redshift",
+    "image": "../../../assets/images/redshift.png"
+  },
+  {
+    "id": "8",
+    "name": "DynamoDB",
+    "image": "../../../assets/images/dynamodb.png"
+  },
+  {
+    "id": "9",
+    "name": "Elastic Search",
+    "image": "../../../assets/images/elasticsearch.png"
+  },
+  {
+    "id": "10",
+    "name": "Redis",
+    "image": "../../../assets/images/redis.png"
+  },
+  {
+    "id": "11",
+    "name": "Cassandra",
+    "image": "../../../assets/images/cassandra.png"
+  },
+  {
+    "id": "12",
+    "name": "Amazon Athena",
+    "image": "../../../assets/images/athena.png"
+  },
+  {
+    "id": "13",
+    "name": "Denodo",
+    "image": "../../../assets/images/denodo.png"
+  },
+  {
+    "id": "14",
+    "name": "Oracle DB",
+    "image": "../../../assets/images/oracle.png"
+  },
+  {
+    "id": "15",
+    "name": "Vertica",
+    "image": "../../../assets/images/vertica.png"
+  },
+  {
+    "id": "16",
+    "name": "Presto",
+    "image": "../../../assets/images/presto.png"
+  },
+  {
+    "id": "17",
+    "name": "Cloud Datastore",
+    "image": "../../../assets/images/cloud-datastore.png"
+  },
+  {
+    "id": "18",
+    "name": "CouchDB",
+    "image": "../../../assets/images/couchDB.png"
+  },
+  {
+    "id": "19",
+    "name": "RethinkDB",
+    "image": "../../../assets/images/rethinkDB.png"
+  },
+  {
+    "id": "20",
+    "name": "Cosmos DB",
+    "image": "../../../assets/images/cosmosdb.png"
+  },
+  {
+    "id": "21",
+    "name": "SAP Hana",
+    "image": "../../../assets/images/sap.png"
+  }
+]
